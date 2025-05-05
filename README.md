@@ -1,0 +1,1 @@
+![Digital Counter (Arduino + 7-Segment 4 Digits)](./4_digit_counter_using_7segment_display.jpg)
